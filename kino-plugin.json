@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "apiVersion": 18,
   "entry": "plugin.js",
+  "icon": "icon.png",
   "description": "Kino TV con el acabado de cristal líquido: superficies translúcidas, bordes de luz, esquinas continuas y un aurora azul de fondo en el celular y en el TV.",
   "hosts": [],
   "categories": [
